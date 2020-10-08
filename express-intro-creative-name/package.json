@@ -1,0 +1,23 @@
+{
+  "name": "express-intro-creative-name",
+  "version": "1.0.0",
+  "description": "Go to http://expressjs.com/en/starter/installing.html and follow the instructions to install express on your node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchoolOfCode/express-intro-creative-name.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/express-intro-creative-name/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/express-intro-creative-name#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
